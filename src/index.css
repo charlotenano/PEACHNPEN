@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
+
+:root {
+  font-family: 'Nunito', 'Segoe UI', sans-serif;
+  --body: 'Nunito', 'Segoe UI', sans-serif;
+  --pixel: 'Courier New', monospace;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #523d3c;
+  background: #fff7f2;
+  --paper: #fff9f5;
+  --surface: #fffdfc;
+  --peach: #ffc493;
+  --peach-deep: #ee9667;
+  --berry: #963e54;
+  --ink: #523d3c;
+  --ink-soft: #755e5a;
+  --muted: #a08782;
+  --line: #f1deda;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #fff7f2;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  color: var(--ink);
+}
+
+button,
+input,
+select { font: inherit; }
+
+button { color: inherit; }
+
+#root {
+  min-height: 100vh;
+  padding: 18px;
+}
+
+h1,
+h2,
+h3,
+p { margin: 0; }
+
+@media (max-width: 760px) {
+  #root { padding: 0; }
+}
