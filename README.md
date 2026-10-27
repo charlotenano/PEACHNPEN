@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -30,3 +31,7 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
+# PEACHNPEN
+PEACH&amp;PEN is a cozy study nook for your desktop. Upload your lesson files (PDF, DOCX, PPTX, TXT) and instantly transform them into reviewers, summaries, flashcards, practice quizzes, and PPT outlines with stored prompt templates. Everything runs 100% private, offline, and powered by Ollama. Built with Tauri 2, React, and Rust.
+>>>>>>> efa58567106ee20f835610a8ac11e70935d11cc0
